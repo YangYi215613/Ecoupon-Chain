@@ -1,0 +1,10 @@
+.vscode
+.idea
+*.exe
+blockchain.dat
+*.db
+*.db.lock
+experiment
+test
+logs
+ecoupon-chain
